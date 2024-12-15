@@ -1,0 +1,20 @@
+header {
+    background-color: #23343E;
+}
+
+.card {
+    background-color: #23343E;
+    box-shadow: 0px 0px 50px 3px rgba(0, 0, 0, 0.537);
+}
+p a {
+    text-decoration: none white;
+    transition: all 0.4s;
+}
+p a:hover {
+    text-decoration: underline solid white;
+    margin-top: 20px;
+}
+.form-control::placeholder {
+    color: rgb(161, 161, 161);
+    opacity: 1;
+}
